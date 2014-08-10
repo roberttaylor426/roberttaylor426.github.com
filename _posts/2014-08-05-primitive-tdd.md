@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Primitive TDD"
-tags: [tdd, types, primitive obsession, hexagonal architecture]
+tags: [tdd, types, primitive obsession, hexagonal architecture, ubiquitous language]
 ---
 
 Types are a powerful tool. 
