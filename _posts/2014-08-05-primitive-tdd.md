@@ -42,7 +42,7 @@ It turns out that primitives aren't simple at all. In fact they're often the mos
 
 When asked about the accidental complexity introduced and the subsequent need to write a test which validates that the code indeed throws its hands up in the air when something silly happens, the typical response is "_well, it's tested_". 
 
-It's as if the value of a test always exceeds its cost. It's as if tests somehow guarantee a good design. There is certainly little or no thought going into improving the design before or after the tests.
+It's as if the value of a test always exceeds its cost. It's as if tests somehow guarantee a good design. There is certainly little or no thought going into improving the design before or after the tests are written.
 
 ##Tightly coupled tests
 
