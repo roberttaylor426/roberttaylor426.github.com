@@ -3,6 +3,11 @@ layout: page
 title: Reified reasonings on software development
 tagline: by Robert Taylor
 ---
+
+## Hello!
+
+You've caught me in the process of migrating my old blog to GitHub. This is all you're getting for now:
+
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
