@@ -8,11 +8,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Reified reasonings on software development
+title : Reified reasonings
 tagline: 
 author :
   name : Robert Taylor
-  email : blah@email.test
   github : roberttaylor426
   twitter : roberttaylor426
 
@@ -81,16 +80,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      short_name : roberttaylor426
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.

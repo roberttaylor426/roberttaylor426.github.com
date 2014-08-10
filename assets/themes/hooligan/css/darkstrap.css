@@ -40,6 +40,10 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
+.brand a {
+  color: white;
+}
+
 /* line 50, ../sass/darkstrap.scss */
 h6 {
   color: #999;
