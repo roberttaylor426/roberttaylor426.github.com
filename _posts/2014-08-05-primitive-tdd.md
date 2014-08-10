@@ -44,9 +44,9 @@ When asked about the accidental complexity introduced and the subsequent need to
 
 It's as if the value of a test always exceeds its cost. It's as if tests somehow guarantee a good design. There is certainly little or no thought going into improving the design before or after the tests are written.
 
-##Tightly coupled tests
+##Test-induced viscosity
 
-Sometimes we write tests in such a way that it disincentivizes us to refactor and introduce new types, since doing so has become costly.
+Sometimes we write tests in such a way that it disincentivizes us to refactor and introduce new types, since doing so has become costly and hard.
 
 I used to think unit tests were essentially class tests. In my code there would almost always be a 1 to 1 mapping between a class and its test. I used to test every interaction between a class and its collaborators and marvel at how comprehensively my code was tested.
 
