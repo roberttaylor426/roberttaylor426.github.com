@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, RoboBinding (part 1)
+tags: [robobinding, android, tdd, clean code]
 ---
 
 At a recent [Londroid](http://www.meetup.com/android/) meetup I listened to an interesting [talk](http://prezi.com/mik0nmkv549h/continuous-integration-for-android/) by Gonçalo Silva where he assessed the Android automated testing landscape.
