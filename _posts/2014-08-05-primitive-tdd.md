@@ -46,7 +46,7 @@ It's as if the value of a test always exceeds its cost. It's as if tests somehow
 
 ##Test-induced viscosity
 
-Sometimes we write tests in such a way that it disincentivizes us to refactor and introduce new types, since doing so has become costly and hard.
+Sometimes we write tests in such a way that it disincentivizes us to refactor and introduce new types, since doing so has become costly.
 
 I used to think unit tests were essentially class tests. In my code there would almost always be a 1 to 1 mapping between a class and its test. I used to test every interaction between a class and its collaborators and marvel at how comprehensively my code was tested.
 
@@ -54,9 +54,11 @@ If you write tests in this way you will find that your code is expensive to chan
 
 Since the tests test the implementation, any changes to the production code (regardless of whether or not they actually change behaviour) will likely break the tests. As a result of this increased maintenance overhead, the cost of refactoring the system and therefore introducing new types can start to outweigh the perceived benefit. This is ironic given that TDD is supposed to empower us to refactor.
 
+###Muddying the waters
+
 By testing in this way, tests also start to lose the ability to give us insights into how we might refactor in the first place.
 
-Tests written to verify the interactions between low level classes often explain the '_what?_' but not the '_why?_'. They'll describe those interactions, but they likely won't reflect the business requirements or core business concepts. Show such a test to a business analyst (or even yourself in 1 month's time) and she won't be able to make sense of it. 
+Tests written to verify the interactions between low level classes often explain the '_what?_' but not the '_why?_'. They'll describe those interactions, but they likely won't reflect the underlying business requirements or core business concepts. Show such a test to a business analyst (or even yourself in 1 month's time) and she won't be able to make sense of it. 
 
 Given that the tests are less frequently framed in terms of business requirements and the [ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html), I submit that there's less drive from the tests to evolve our code towards a more _meaningful_ design.
 
