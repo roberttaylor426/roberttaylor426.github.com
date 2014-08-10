@@ -7,7 +7,7 @@ Types are a powerful tool.
 
 They can be used to enforce invariants, reduce state space, decrease the likelihood of bugs and better communicate intent.
 
-I'm not going to spend time elucidating the various benefits of typeful programming here however. There are already other articles on the web that do a [perfectly good job](http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/). 
+I'm not going to spend time elucidating the various benefits of typeful programming here. There are already other articles on the web that do a [perfectly good job](http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/).
 
 What I find curious is the way that many in the TDD community (developers who often claim to _care_ about the code they write) frequently overlook them(*).
 
