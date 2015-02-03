@@ -52,7 +52,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 
 /* line 49, ../_sass/_base.scss */
 h1, h2 {
-  margin: 0 0 15px;
+  margin: 15px 0 15px;
 }
 
 /* line 53, ../_sass/_base.scss */
@@ -412,4 +412,8 @@ div.sidebar section img.icon {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
+}
+
+div.content li {
+  margin:.5em 10% .5em 0;
 }

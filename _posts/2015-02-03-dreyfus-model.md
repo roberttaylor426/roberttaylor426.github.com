@@ -64,10 +64,10 @@ These issues represent significant missed opportunities. As Andy does in his boo
 * ___Accept Responsibility___. Developers need to start recognizing the role they play in securing a positive outcome for the customer and taking responsibility for their actions.
 
 Andy cited a particular study conducted in the medial profession where nurses were called by bogus doctors and instructed to give a patient a particular dose of a drug. Despite the fact that:
-    1. the drug was not on the approved list
-    2. the instruction was given over the phone, not in writing
-    3. the prescribed dosage was double the recommended amount
-    4. the doctor was unknown to the nurse
+    * the drug was not on the approved list
+    * the instruction was given over the phone, not in writing
+    * the prescribed dosage was double the recommended amount
+    * the doctor was unknown to the nurse
 95% of nurses blindly followed the instructions given. In my last job I would see this sort of thing happen _daily_. At best it's negligent, at worst it's dangerous. 
 
 This means we need more people at the competent level. To achieve this we need more good exemplars in the environment.
