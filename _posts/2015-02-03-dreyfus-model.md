@@ -94,5 +94,5 @@ In his book, Andy also recommends balancing teams with individuals at different 
 
 I recommend you go read [his book](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) :-).
 
-* You'll notice that I'm currently a Novice when it comes to using my new graphic tablet. With practice I'm hoping to improve.
+(*) You'll notice that I'm currently a Novice when it comes to using my new graphic tablet. With practice I'm hoping to improve.
    
