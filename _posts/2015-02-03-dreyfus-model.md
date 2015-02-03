@@ -74,7 +74,7 @@ Andy cited a particular study conducted in the medical profession where nurses w
 	</ol>
 <p>95% of nurses blindly followed the instructions given. In my last job I would see this sort of thing happen <i>daily</i>. At best it's negligent, at worst it's dangerous.</p>
 
-<p>This means we need more people at the competent level. To achieve this we need more good exemplars in the environment.</p>
+<p>This means we need more people at the Competent level. To achieve this we need more good exemplars in the environment.</p>
  </li>
 
  <li>
