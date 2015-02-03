@@ -65,7 +65,7 @@ These issues represent significant missed opportunities. As Andy does in his boo
  <li>
 	<p><b><i>Accept Responsibility</i></b>. Developers need to start recognizing the role they play in securing a positive outcome for the customer and taking responsibility for their actions.
 
-Andy cited a particular study conducted in the medial profession where nurses were called by bogus doctors and instructed to give a patient a particular dose of a drug. Despite the fact that:</p>
+Andy cited a particular study conducted in the medical profession where nurses were called by bogus doctors and instructed to give a patient a particular dose of a drug. Despite the fact that:</p>
     <ol>
 		<li>the drug was not on the approved list</li>
 		<li>the instruction was given over the phone, not in writing</li>
