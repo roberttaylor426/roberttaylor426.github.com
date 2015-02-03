@@ -421,3 +421,7 @@ div.content li {
 div.content ul, ol {
   margin-bottom:25px;
 }
+
+div.content ul ol {
+  margin-bottom:25px;
+}
