@@ -46,7 +46,7 @@ One such factor is _metacognitive ability_ (or lack thereof) - how good are we a
 
 ![Dunning-Kruger]({{ site.url }}/assets/dunning_kruger.png)
 
-This _second-order incompetence_, where we naturally fail to recognize our own ineptitude, is a real barrier to progression. To my mind, arrogance exacerbates this phenomenon.
+This _second-order incompetence_, where we naturally fail to recognize our own ineptitude, is a real barrier to progression. To my mind arrogance tends to exacerbate this phenomenon.
 
 Other factors that inhibit progression are more environmental in nature. In terms of the software development industry today, Andy Hunt draws a fascinating parallel with the crisis faced by the nursing industry in the 1980s, the focus of the aforementioned study by Dr Benner. She observed the following:
 
