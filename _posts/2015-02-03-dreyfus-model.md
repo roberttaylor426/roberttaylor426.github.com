@@ -4,7 +4,11 @@ title: The Dreyfus Model
 tags: [dreyfus, learning]
 ---
 
-I've just finished reading the first chapter of _Pragmatic Thinking & Learning: Refactoring Your Wetware_ by Andy Hunt. In this chapter he introduces the Dreyfus Model, a construct theory formalised in the 1970s which proposes five levels of skill acquisition: ___Novice___, ___Advanced Beginner___, ___Competent___, ___Proficient___ and ___Expert___. 
+<div style="float: right">
+	<img src="/assets/refactor_your_wetware.jpg" style="margin-left:20px;margin-top:10px;margin-bottom:10px"/>
+</div>
+
+I've just finished reading the first chapter of [_Pragmatic Thinking & Learning: Refactoring Your Wetware_](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) by [Andy Hunt](http://andy.pragprog.com/). In this chapter he introduces the Dreyfus Model, a construct theory formalised in the 1970s which proposes five levels of skill acquisition: ___Novice___, ___Advanced Beginner___, ___Competent___, ___Proficient___ and ___Expert___. 
 
 From my reading it's apparent that by understanding the lessons of the Dreyfus Model, organizations might better contemplate how to create environments which maximise potential expertise development, retention and capitalization. It might also help you, the individual, better consider how to interoperate and collaborate with those around you.
 
@@ -32,7 +36,7 @@ In her 1982 paper on the nursing profession '_From Novice to Expert_', Dr Patric
 
 # Expertise distribution
 
-Further studies have shown that regardless of the skill in question, the individual or their age, the stage we are most likely to be at is Advanced Beginner. Few of us will progress beyond this point in most skills. For any given skill, the actual expertise distribution typically looks something like this:
+Further studies have shown that regardless of the skill in question, the individual or their age, the stage we are most likely to be at is Advanced Beginner. Few of us will progress beyond this point in most skills. For any given skill, the actual expertise distribution typically looks something like this*:
 
 ![Dreyfus distribution]({{ site.url }}/assets/dreyfus_distribution.png)
 
@@ -42,7 +46,7 @@ One such factor is _metacognitive ability_ (or lack thereof) - how good are we a
 
 ![Dunning-Kruger]({{ site.url }}/assets/dunning_kruger.png)
 
-This _second-order incompetence_, where we naturally fail to recognize our own ineptitude, is a barrier to progression (to my mind, arrogance exacerbates this phenomenon).
+This _second-order incompetence_, where we naturally fail to recognize our own ineptitude, is a real barrier to progression. To my mind, arrogance exacerbates this phenomenon.
 
 Other factors that inhibit progression are more environmental in nature. In terms of the software development industry today, Andy Hunt draws a fascinating parallel with the crisis faced by the nursing industry in the 1980s, the focus of the aforementioned study by Dr Benner. She observed the following:
 
@@ -88,5 +92,7 @@ By the way, experts don't necessarily make good teachers. Teaching is a skill in
 
 In his book, Andy also recommends balancing teams with individuals at different levels. He argues that Experts have a tendency to disagree with one another, and it can be useful to have one or two people on the team who are not necessarily so focussed on the bigger picture.
 
-I recommend you go read [his book](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) :-). 
+I recommend you go read [his book](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) :-).
+
+* You'll notice that I'm currently a Novice when it comes to using my new graphic tablet. With practice I'm hoping to improve.
    
