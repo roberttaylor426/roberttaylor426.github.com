@@ -133,7 +133,7 @@ hr {
   margin: 0 auto;
   max-height: 80%;
   max-width: 100%;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+  /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8); */
 }
 /* line 115, ../_sass/_base.scss */
 .content.no-header {
