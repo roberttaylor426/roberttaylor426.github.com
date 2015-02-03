@@ -417,3 +417,7 @@ div.sidebar section img.icon {
 div.content li {
   margin:.5em 10% .5em 0;
 }
+
+div.content ul, ol {
+  margin-bottom:25px;
+}
