@@ -61,26 +61,39 @@ If you've spent any amount of time in software development, you'll instantly rec
 
 These issues represent significant missed opportunities. As Andy does in his book, I will tailor some of the recommendations made by Dr Benner to the nursing profession in the 1980s, for the software development industry:
 
-* ___Accept Responsibility___. Developers need to start recognizing the role they play in securing a positive outcome for the customer and taking responsibility for their actions.
+<ul>
+ <li>
+	<p><b><i>Accept Responsibility</i></b>. Developers need to start recognizing the role they play in securing a positive outcome for the customer and taking responsibility for their actions.
 
 Andy cited a particular study conducted in the medial profession where nurses were called by bogus doctors and instructed to give a patient a particular dose of a drug. Despite the fact that:
-    * the drug was not on the approved list
-    * the instruction was given over the phone, not in writing
-    * the prescribed dosage was double the recommended amount
-    * the doctor was unknown to the nurse
-95% of nurses blindly followed the instructions given. In my last job I would see this sort of thing happen _daily_. At best it's negligent, at worst it's dangerous. 
+    <ol>
+		<li>the drug was not on the approved list</li>
+		<li>the instruction was given over the phone, not in writing</li>
+		<li>the prescribed dosage was double the recommended amount</li>
+		<li>the doctor was unknown to the nurse</li>
+	</ol>
+95% of nurses blindly followed the instructions given. In my last job I would see this sort of thing happen <i>daily</i>. At best it's negligent, at worst it's dangerous. 
 
-This means we need more people at the competent level. To achieve this we need more good exemplars in the environment.
+This means we need more people at the competent level. To achieve this we need more good exemplars in the environment.</p>
+ </li>
 
-* ___Retain Expertise___. Organizations need to recognize and reward the value individuals with particular expertise bring. Consider any high-performing sports team: although the manager is well-paid and respected, it's often star players who are paid the most, in recognition of their contribution.   
+ <li>
+	<p><b><i>Retain Expertise</i></b>. Organizations need to recognize and reward the value individuals with particular expertise bring. Consider any high-performing sports team: although the manager is well-paid and respected, it's often star players who are paid the most, in recognition of their contribution.</p>
+ </li>
 
-* ___Beware the tool trap___. Strict enforcement of specific tools and methodologies frustrates experts and stifles creativity, invention and intuition. In particular avoid:
-    * Legislating behaviour that contradicts individual autonomy.
-    * Alienating experienced practitioners in favour of novices.
-    * Spelling out too much detail.
-    * Oversimplification of complex situations.
-    * Demand for excessive conformity.
-    * Insensitivity to contextual nuances.
+ <li>
+	<p><b><i>Beware the tool trap</i></b>. Strict enforcement of specific tools and methodologies frustrates experts and stifles creativity, invention and intuition. In particular avoid:
+		<ul>
+			<li>Legislating behaviour that contradicts individual autonomy.</li>
+			<li>Alienating experienced practitioners in favour of novices.</li>
+			<li>Spelling out too much detail.</li>
+			<li>Oversimplification of complex situations.</li>
+			<li>Demand for excessive conformity.</li>
+			<li>Insensitivity to contextual nuances.</li>
+		</ul>
+	</p>
+ </li>
+</ul>
 
 # One size does not fit all
 
