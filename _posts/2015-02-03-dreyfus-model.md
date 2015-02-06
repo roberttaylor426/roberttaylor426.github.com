@@ -14,7 +14,7 @@ From my reading it's apparent that by understanding the lessons of the Dreyfus M
 
 # The 5 stages
 
-Each stage describes the level of mastery acquired in any given skill. It does not relate to the abilities of the individual in general. Frank might be a proficient cook, but he might also be a novice pianist.
+Each stage describes the level of mastery acquired in any given skill. It does not relate to the abilities of the individual in general. Frank might be a proficient cookfor example, but he might also be a novice pianist.
 
 The stages are defined as follows:  
 
@@ -26,9 +26,9 @@ ___Competents___ can solve problems themselves, and actively seek and apply advi
 
 ___Proficients___ can reflect on and improve their approach, and can apply maxims in context. They will find over-simplified information frustrating.
 
-___Experts___ work from intuition, not reason. As such they often struggle to articulate their thought process to others, they 'just know'. They are fully capable of differentiating those factors in a given problem which are relevant from those that are not. They see themselves as part of the system, rather than as detached observers.
+___Experts___ work from intuition, not reason. As such they often struggle to articulate their thought process to others, they 'just know'. They are capable of differentiating the factors which are relevant to a given problem from those which are not. They see themselves as part of the system, rather than as detached observers.
 
-In her 1982 paper on the nursing profession '_From Novice to Expert_', Dr Patricia Benner noted that this journey from novice to expert entails:
+In her 1982 paper on the nursing profession '_From Novice to Expert_', Dr Patricia Benner noted that this journey from Novice to Expert entails:
 
 * a move from rules to intuition
 * a realisation that only certain parts of the problem are relevant
@@ -48,7 +48,7 @@ One such factor is _metacognitive ability_ (or lack thereof) - how good are we a
 
 This _second-order incompetence_, where we naturally fail to recognize our own ineptitude, is a real barrier to progression. To my mind arrogance tends to exacerbate this phenomenon.
 
-Other factors that inhibit progression are more environmental in nature. In terms of the software development industry today, Andy Hunt draws a fascinating parallel with the crisis faced by the nursing industry in the 1980s, the focus of the aforementioned study by Dr Benner. She observed the following:
+Other factors that inhibit progression are more environmental in nature. In terms of the software development industry today, Andy Hunt draws a fascinating parallel with the crisis faced by the nursing industry in the 1980s, the focus of the aforementioned study by Dr Benner. In her study Dr Benner observed the following:
 
 * Nurses were often treated as a mere commodity; homogenous resources who were expected to follow doctors' orders.
 * Pay inequality meant that many more skilled nurses were ultimately leaving the profession for management or teaching.
@@ -59,7 +59,7 @@ If you've spent any amount of time in software development, you'll instantly rec
 
 # Dr Benner's recommendations
 
-These issues represent significant missed opportunities. As Andy does in his book, I will tailor some of the recommendations made by Dr Benner to the nursing profession in the 1980s, for the software development industry:
+These issues represent significant missed opportunities. As Andy does in his book, I will tailor some of the recommendations made by Dr Benner for the nursing profession in the 1980s, for the software development industry today:
 
 <ul>
  <li>
@@ -101,7 +101,9 @@ The Dreyfus model highlights the conditions that individuals at different stages
 
 Novices need quick successes. Don't confuse them with the bigger picture, give them support and context-free rules. Experts on the other hand don't want to be bogged down with bureaucracy and guidelines. Give them the freedom to express their opinions and insight - you want to benefit from their expertise.
 
-By the way, experts don't necessarily make good teachers. Teaching is a skill in its own right. As we've seen, experts sometimes have a hard time explaining the rationale behind particular decisions, they tend to just have a (reliable) gut-feel. As such, you might have better luck pairing Novices with Advanced Beginners or Competents, as they'll better understand and be more tolerant of the stricter rules they'll need to follow.
+When you're thinking about how to work with or assist a particular teammate, consider your approach in the context of the Dreyfus Model. What might they struggle with? What might they find frustrating and a hindrance?
+
+By the way, experts don't necessarily make good teachers. Teaching is a skill in its own right. As we've seen, experts sometimes have a hard time explaining the rationale behind particular decisions, they tend to just have a (reliable) gut-feel. As such, you might have better luck pairing Novices with Advanced Beginners or Competents - they'll better understand and be more tolerant of the stricter rules Novices will need to follow.
 
 In his book, Andy also recommends balancing teams with individuals at different levels. He argues that Experts have a tendency to disagree with one another, and it can be useful to have one or two people on the team who are not necessarily so focussed on the bigger picture.
 
