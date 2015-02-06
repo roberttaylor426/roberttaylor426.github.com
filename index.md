@@ -14,6 +14,8 @@ tagline: by Robert Taylor
     </div>
     
     <a href="{{ post.url }}" class="read-more">Read More</a>
+	<div class="aligncenter" style="width:600px;height:0;border-top:2px dashed #BBB;font-size:0;margin-top:20px;margin-bottom:25px">-</div>
+
   </article>
 {% endfor %}
 
