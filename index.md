@@ -4,13 +4,16 @@ title: Reified reasonings on software development
 tagline: by Robert Taylor
 ---
 
-## Hello!
+{% for post in site.posts %}
+  <article class="post">    
+    
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
-You've caught me in the process of migrating my old blog to GitHub. This is all you're getting for now:
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+    <div class="entry">
+      {{ post.content | truncatewords:75}}
+    </div>
+    
+    <a href="{{ post.url }}" class="read-more">Read More</a>
+  </article>
+{% endfor %}
 
